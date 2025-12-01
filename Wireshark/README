@@ -1,6 +1,6 @@
 # Wireshark DoS Attack Analysis Report
 
-## 📄 Overview
+## Overview
 
 This report analyzes a Wireshark packet capture taken during a simulated Denial-of-Service (DoS) attack in a GNS3 virtual environment.
 
